@@ -1,0 +1,21 @@
+scheme: Gemini
+darkmode: true
+
+minify: true
+
+footer:
+  powered: false
+
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+
+social:
+  Twitter: https://twitter.com/hafid_lin || fab fa-twitter
+
+motion:
+  enable: false
+
+social_icons:
+  enable: true
+  icons_only: true
