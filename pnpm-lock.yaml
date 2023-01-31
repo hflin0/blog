@@ -12,6 +12,7 @@ specifiers:
   hexo-renderer-stylus: ^2.1.0
   hexo-server: ^3.0.0
   hexo-theme-landscape: ^0.0.3
+  hexo-typora-img: ^1.2.0
 
 dependencies:
   hexo: 6.3.0
@@ -24,6 +25,7 @@ dependencies:
   hexo-renderer-stylus: 2.1.0
   hexo-server: 3.0.0
   hexo-theme-landscape: 0.0.3
+  hexo-typora-img: 1.2.0
 
 devDependencies:
   hexo-deployer-git: 3.0.0
@@ -706,6 +708,10 @@ packages:
 
   /hexo-theme-landscape/0.0.3:
     resolution: {integrity: sha512-b0Di+TUVs4ESrNX4ULEh9uQmADpO6kr10rIJ2OGZM8suNQNFKdxn+vJUjnLfKkCPJAfVmS7/S83KCNYe4tpoNw==}
+    dev: false
+
+  /hexo-typora-img/1.2.0:
+    resolution: {integrity: sha512-DA4Kp88hVQF3ysNPw+HLcuYnBIkvSyHhoOe1EPNxRW9c3kuLcfrCnkj2eArBD+rTi2xt7m50g4goZDPA6xhi8Q==}
     dev: false
 
   /hexo-util/2.7.0:
