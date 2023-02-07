@@ -25,6 +25,6 @@
     "hexo-typora-img": "^1.2.0"
   },
   "devDependencies": {
-    "hexo-deployer-git": "^3.0.0"
+    "hexo-deployer-git": "^4.0.0"
   }
 }
